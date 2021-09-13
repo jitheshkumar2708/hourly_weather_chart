@@ -28,8 +28,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val rb = findViewById<View>(R.id.main_view_toggle_data) as RadioGroup
-        rb.setOnCheckedChangeListener(RadioGroup.OnCheckedChangeListener { group, checkedId ->
+        val toggleData = findViewById<View>(R.id.main_view_toggle_data) as RadioGroup
+        toggleData.setOnCheckedChangeListener(RadioGroup.OnCheckedChangeListener { group, checkedId ->
             // checkedId is the RadioButton selected
             var toggleHourly = findViewById<View>(R.id.main_view_toggle_data_hourly) as RadioButton
             val toggleDay = findViewById<View>(R.id.main_view_toggle_data_daily) as RadioButton
