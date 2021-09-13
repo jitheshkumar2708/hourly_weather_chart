@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="powered_by_dark_sky">Powered by Dark Sky</string>
+    <string name="day_today">Today</string>
+    <string name="switch_daily">Yesterday</string>
+    <string name="switch_hourly">Hourly</string>
+    <string name="place_name">NASHIK, IND</string>
+    <string name="date">20 April 2012, 20:08 PM</string>
+    <string name="cloud">Clear Sky</string>
+    <string name="temperature">29°C</string>
+    <string name="minimum_temperature">Min Temp: 05:05 AM</string>
+    <string name="error_message">Something went wrong</string>
+    <string name="about">Jithesh</string>
+    <string name="max_tempurature">Max Temp: 05:05 PM</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="_06_41_am">06:40 AM</string>
+    <string name="sunset">Sunset</string>
+    <string name="_06_42_am">06:40 AM</string>
+    <string name="wind">Wind</string>
+    <string name="_06_43_am">06:40 AM</string>
+    <string name="pressure">Pressure</string>
+    <string name="_06_44_am">06:40 AM</string>
+    <string name="humidity">Humidity</string>
+    <string name="_06_40_am">06:40 AM</string>
+    <string name="created_by">Created By</string>
+
+</resources>
